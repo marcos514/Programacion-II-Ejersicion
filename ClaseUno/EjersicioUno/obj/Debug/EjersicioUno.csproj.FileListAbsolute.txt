@@ -3,3 +3,4 @@ D:\MarcosRey\ClaseUno\EjersicioUno\bin\Debug\EjersicioUno.exe
 D:\MarcosRey\ClaseUno\EjersicioUno\bin\Debug\EjersicioUno.pdb
 D:\MarcosRey\ClaseUno\EjersicioUno\obj\Debug\EjersicioUno.exe
 D:\MarcosRey\ClaseUno\EjersicioUno\obj\Debug\EjersicioUno.pdb
+D:\MarcosRey\ClaseUno\EjersicioUno\obj\Debug\EjersicioUno.csprojResolveAssemblyReference.cache
